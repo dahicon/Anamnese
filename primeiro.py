@@ -152,6 +152,17 @@ mais_informacoes = int(input('Digite a opção: '))
 if mais_informacoes == 1:
     mais_informacoes_detalhes = str(input('Escreva mais detalhes sobre: '))
 
+print('')
+print('****************************************************************************************************')
+print('')
+print('                    TERMO DE RESPONSABILIDADE')
+print('')
+print('****************************************************************************************************')
+print('')
+print('Declaro que as informações acima são verdadeiras, não cabendo ao profissional quaisquer responsabilidade por informações omitidas nessa avaliação.')
+print('Tenho ciêencia e estou de acordo a respeito dos procedimentos envolvidos.')
+print('Autorizo que fotografem o local ANTES e DEPOIS, para efeito de documentação do trabalho realizado, e também para qualquer tipo de divulgação do trabalho da profissional.')
+
 
 
 
