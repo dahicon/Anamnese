@@ -1,2 +1,2 @@
-# Anaminesia
- O projeto é só uma idéia, alguma coisa, pra eu programar.
+# Anamnesia
+ O projeto é só uma ideia, alguma coisa, pra eu programar.
